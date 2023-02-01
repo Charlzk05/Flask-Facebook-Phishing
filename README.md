@@ -9,6 +9,7 @@
 
 # Usage
 - ``py app.py`` or ``python app.py``
+- Then go to your localhost ``http://localhost:3000/``
 
 # Image
 ## Main page
